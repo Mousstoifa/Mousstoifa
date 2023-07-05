@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mousstoifa
 - 👀 I’m interested in development web
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning langage javascript, java, mysql, nodeJS
+- 💞️ I’m looking to collaborate on udemy
 - 📫 How to reach me ...
 
 <!---
